@@ -30,9 +30,9 @@ Desarrollador FullStack
 ## 🎯 Proyectos Destacados
 
 <!-- Ejemplo de sección interactiva de proyectos -->
-- [Proyecto 1](https://github.com/TuUsuario/Proyecto1) - Descripción breve del proyecto.
-- [Proyecto 2](https://github.com/TuUsuario/Proyecto2) - Descripción breve del proyecto.
-- [Proyecto 3](https://github.com/TuUsuario/Proyecto3) - Descripción breve del proyecto.
+- [PsicoApp](https://github.com/TuteSeta/PsicoApp) - Descripción breve del proyecto.
+- [BuglessDesign](https://bugs-less-design.vercel.app) - Descripción breve del proyecto.
+- [DesarrolloSoftware-UTN](https://github.com/TuteSeta/DesarrolloSoftware-UTN) - Descripción breve del proyecto.
 
 <!-- Puedes añadir más proyectos y usar gifs o imágenes para hacerlos más atractivos -->
 
@@ -40,9 +40,9 @@ Desarrollador FullStack
 
 ## 📫 Cómo Contactarme
 
-- [Email](mailto:tuemail@ejemplo.com)
-- [LinkedIn](https://www.linkedin.com/in/TuUsuario/)
-- [Twitter](https://twitter.com/TuUsuario)
+- [Email](matiasjzarandon@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/matias-zarandon-0307b534a/)
+- [Instagram](https://www.instagram.com/tute_zarandon/)
 
 ---
 
