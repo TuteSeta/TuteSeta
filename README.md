@@ -50,5 +50,3 @@ Desarrollador FullStack
 
 ¡Gracias por visitar mi perfil! 
 
-<!-- Opcional: Agrega un contador de visitas -->
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TuUsuario.TuUsuario)
