@@ -1,8 +1,7 @@
 # ¡Hola, soy Matias Zarandon! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/TuUsuario?label=Followers&style=social)](https://github.com/TuUsuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/TuUsuario)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TuUsuario?style=social)](https://twitter.com/TuUsuario)
+[![GitHub followers](https://img.shields.io/github/followers/TuUsuario?label=Followers&style=social)](https://github.com/TuteSeta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/matias-zarandon-0307b534a/)
 
 Desarrollador FullStack
 ---
@@ -22,7 +21,10 @@ Desarrollador FullStack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-<!-- Añade más badges según tus habilidades -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 
 ---
 
@@ -30,9 +32,9 @@ Desarrollador FullStack
 ## 🎯 Proyectos Destacados
 
 <!-- Ejemplo de sección interactiva de proyectos -->
-- [PsicoApp](https://github.com/TuteSeta/PsicoApp) - Descripción breve del proyecto.
-- [BuglessDesign](https://bugs-less-design.vercel.app) - Descripción breve del proyecto.
-- [DesarrolloSoftware-UTN](https://github.com/TuteSeta/DesarrolloSoftware-UTN) - Descripción breve del proyecto.
+- [PsicoApp](https://github.com/TuteSeta/PsicoApp)  
+- [BuglessDesign](https://bugs-less-design.vercel.app) 
+- [DesarrolloSoftware-UTN](https://github.com/TuteSeta/DesarrolloSoftware-UTN) 
 
 <!-- Puedes añadir más proyectos y usar gifs o imágenes para hacerlos más atractivos -->
 
@@ -40,13 +42,13 @@ Desarrollador FullStack
 
 ## 📫 Cómo Contactarme
 
-- [Email](matiasjzarandon@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/matias-zarandon-0307b534a/)
-- [Instagram](https://www.instagram.com/tute_zarandon/)
+- 📧 [Email](mailto:matiasjzarandon@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/matias-zarandon-0307b534a/)
+- 📸 [Instagram](https://www.instagram.com/tute_zarandon/)
 
 ---
 
-¡Gracias por visitar mi perfil! Si quieres colaborar o simplemente charlar sobre tecnología, no dudes en ponerte en contacto. 💬
+¡Gracias por visitar mi perfil! 
 
 <!-- Opcional: Agrega un contador de visitas -->
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TuUsuario.TuUsuario)
