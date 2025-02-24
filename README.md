@@ -8,9 +8,9 @@ Desarrollador FullStack
 
 ## 🚀 Sobre Mí
 
-- 💻 **Desarrollador:** Especializado en **JavaScript, Python y C++**.
-- 🌱 **Aprendizaje Continuo:** Actualmente explorando **[Nombre de la Tecnología]**.
-- 🎯 **Intereses:** Desarrollo web, inteligencia artificial y herramientas interactivas.
+- 💻 **Desarrollador:** Conocimientos en Front-End y Back-End.
+- 🌱 **Aprendizaje Continuo:** Abierto a aprender nuevas tecnologias y herramientas.
+- 🎯 **Intereses:** Desarrollo web, inteligencia artificial y analisis de datos.
 - 🤝 **Colaboración:** Siempre abierto a nuevos proyectos y colaboraciones.
 
 ---
