@@ -1,11 +1,10 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Matias Zarandon! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/TuUsuario?label=Followers&style=social)](https://github.com/TuUsuario)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/TuUsuario)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TuUsuario?style=social)](https://twitter.com/TuUsuario)
 
-Soy un apasionado desarrollador enfocado en crear soluciones innovadoras y aprender continuamente. ¡Bienvenido a mi rincón en GitHub!
-
+Desarrollador FullStack
 ---
 
 ## 🚀 Sobre Mí
@@ -27,17 +26,6 @@ Soy un apasionado desarrollador enfocado en crear soluciones innovadoras y apren
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=dark" alt="Mi Racha de Contribuciones">
-</p>
-
----
 
 ## 🎯 Proyectos Destacados
 
