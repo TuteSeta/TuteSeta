@@ -31,7 +31,7 @@ Desarrollador FullStack
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) 
-
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ---
 
 
