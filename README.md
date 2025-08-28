@@ -8,10 +8,10 @@ Desarrollador FullStack
 
 ## 🚀 Sobre Mí
 
-- 💻 **Desarrollador:** Conocimientos en Front-End y Back-End.
-- 🌱 **Aprendizaje Continuo:** Abierto a aprender nuevas tecnologias y herramientas.
-- 🎯 **Intereses:** Desarrollo web, inteligencia artificial y analisis de datos.
-- 🤝 **Colaboración:** Siempre abierto a nuevos proyectos y colaboraciones.
+- **Desarrollador:** Conocimientos en Front-End y Back-End.
+- **Aprendizaje Continuo:** Abierto a aprender nuevas tecnologias y herramientas.
+- **Intereses:** Desarrollo web, inteligencia artificial y analisis de datos.
+- **Colaboración:** Siempre abierto a nuevos proyectos y colaboraciones.
 
 ---
 
