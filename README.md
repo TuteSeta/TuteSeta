@@ -32,7 +32,7 @@ Desarrollador FullStack
 ## 🎯 Proyectos Destacados
 
 <!-- Ejemplo de sección interactiva de proyectos -->
-- [PsicoApp](https://github.com/TuteSeta/PsicoApp)  
+- [FullStock](https://github.com/TuteSeta/FullStockBack)  
 - [BuglessDesign](https://bugs-less-design.vercel.app)
 - [Asap](https://www.asapconsultores.com.ar) 
 - [DesarrolloSoftware-UTN](https://github.com/TuteSeta/DesarrolloSoftware-UTN) 
