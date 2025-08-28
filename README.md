@@ -17,14 +17,20 @@ Desarrollador FullStack
 
 ## 🛠️ Tecnologías & Herramientas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) 
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) 
 
 ---
 
