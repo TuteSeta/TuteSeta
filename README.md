@@ -39,7 +39,7 @@
 ## 💡 Proyectos Destacados
 
 ### 🔧 Automatización Empresarial – [ASAP Consultores](https://www.asapconsultores.com.ar)
-Automatización de procesos administrativos internos mediante **Python**, **OpenPyXL** y **Tkinter**:  
+Automatización de procesos administrativos internos mediante **Python** y **Tkinter**:  
 - Validación automática de facturas entre AFIP y sistema interno Tango.  
 - Generación de reportes Excel con formato condicional.  
 - Interfaz gráfica para usuarios sin conocimientos técnicos.  
